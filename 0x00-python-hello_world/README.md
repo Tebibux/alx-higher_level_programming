@@ -6,3 +6,4 @@ task 1 - Run Python code
 task 2 - python script print message
 	should start the python interpretor locate at /usr/bin
 	by the name pthon3
+task 3 - python scriopt that print formated string using print(f"{} message....")
