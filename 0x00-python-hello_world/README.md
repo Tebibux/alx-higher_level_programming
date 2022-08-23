@@ -11,3 +11,5 @@ task 4 - float precision to n-digits.
 task 5 - repeating a string
 task 6 - String concatination
 task 7 - word trimming and slicing
+task 8 - postion of words
+
