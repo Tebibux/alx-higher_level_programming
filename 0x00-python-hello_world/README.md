@@ -10,3 +10,4 @@ task 3 - python scriopt that print formated string using print(f"{} message...."
 task 4 - float precision to n-digits.
 task 5 - repeating a string
 task 6 - String concatination
+task 7 - word trimming and slicing
