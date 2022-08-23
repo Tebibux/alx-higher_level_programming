@@ -17,4 +17,5 @@ task 7: check if lowercase
 	use ascii and ord() function
 task 8: convert to upper case
 task 9:
-task 10: return sum
+task 10: return sum a + b
+task 11: return the power a**b
