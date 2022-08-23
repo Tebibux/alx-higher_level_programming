@@ -11,3 +11,5 @@ task 3: ASCII alphabet in lowercase except e and q
 task 4: base 10 to base 16
 task 5:  numbers from 0 to 99.
 	using two decimal
+task 6: two combination of an intiger
+	no repeatition of a number
