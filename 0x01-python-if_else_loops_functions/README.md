@@ -16,3 +16,5 @@ task 6: two combination of an intiger
 task 7: check if lowercase
 	use ascii and ord() function
 task 8: convert to upper case
+task 9:
+task 10: return sum
