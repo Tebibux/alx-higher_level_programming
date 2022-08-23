@@ -19,3 +19,4 @@ task 8: convert to upper case
 task 9:
 task 10: return sum a + b
 task 11: return the power a**b
+task 12 : Fizz Buzz
