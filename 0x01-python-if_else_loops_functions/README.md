@@ -7,3 +7,5 @@ task 0: Positive anything is better than negative nothing
 task 1: The last digit 
 	last digit > 5, equals to 0 and less than 6 (not zero)
 task 2: ASCII alphabet in lowercase
+task 3:
+task 4: base 10 to base 16
