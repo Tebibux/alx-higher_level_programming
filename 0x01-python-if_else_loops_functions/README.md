@@ -15,4 +15,4 @@ task 6: two combination of an intiger
 	no repeatition of a number
 task 7: check if lowercase
 	use ascii and ord() function
-task 8:
+task 8: convert to upper case
