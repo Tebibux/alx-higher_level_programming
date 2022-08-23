@@ -9,3 +9,5 @@ task 1: The last digit
 task 2: ASCII alphabet in lowercase
 task 3: ASCII alphabet in lowercase except e and q
 task 4: base 10 to base 16
+task 5:  numbers from 0 to 99.
+	using two decimal
