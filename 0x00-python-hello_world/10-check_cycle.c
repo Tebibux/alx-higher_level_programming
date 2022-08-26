@@ -1,4 +1,4 @@
-#include "list.h"
+#include "lists.h"
 
 /**
  * check_cycle - check if link has a cycle
@@ -14,19 +14,19 @@ int check_cycle(listint_t *list)
 	plst = list;
 	while (list && p && p->next)
 	{
-		lsit = list->next;
+		list = list->next;
 		p = p->next->next;
 
 		if (list == p)
 		{
-			list = prev;
-			prev = p;
+			list = plst;
+			plst = p;
 			while (1)
 			{
-				p = pre;
-				while (p->next != list && p->next != prev)
+				p = plst;
+				while (p->next != list && p->next != plst)
 					p = p->next;
-				if (p2->next == list)
+				if (p->next == list)
 					break;
 				list = list->next;
 			}
