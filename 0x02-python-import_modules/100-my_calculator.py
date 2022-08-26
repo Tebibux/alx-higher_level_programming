@@ -7,7 +7,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     operator = sys.argv[2]
-    if operator != '+' and != '-' and != '*' and != '/':
+    if operator != '+' and operator != '-' and operator != '*' and operator != '/':
         print("Unknown operator. Available operators: +, -, * and /")
         sys.exit(1)
 
