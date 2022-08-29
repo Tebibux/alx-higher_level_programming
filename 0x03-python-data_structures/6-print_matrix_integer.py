@@ -8,7 +8,7 @@ def print_matrix_integer(matrix=[[]]):
         for j in range(iSize):
             if j != 0:    
                 print(" ", end='')
-            print("{:d}".format(matrix[i][j]), end='')
+            print("{}".format(matrix[i][j]), end='')
             if j == (size - 1):
                 print('', end='$')
         print()
