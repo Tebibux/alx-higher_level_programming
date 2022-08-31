@@ -14,4 +14,5 @@ Tasks
 11. Multiply by using map - 11-multiply_list_map.py 
 12. ____________________________________
 13. Weighted average! - 100-weight_average.py
+14. Squared by using map - 101-square_matrix_map.py
 
