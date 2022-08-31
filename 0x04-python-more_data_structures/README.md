@@ -15,4 +15,4 @@ Tasks
 12. ____________________________________
 13. Weighted average! - 100-weight_average.py
 14. Squared by using map - 101-square_matrix_map.py
-
+15. Delete by value - 102-complex_delete.py
