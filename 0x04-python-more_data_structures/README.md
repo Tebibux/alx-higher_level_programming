@@ -11,4 +11,4 @@ Tasks
 8. Simple delete by key - 8-simple_delete.py del won't work used pop()
 9. Multiply by 2 - 9-multiply_by_2.py value by index and multiply
 10. Best score - 10-best_score.py
- 
+11. Multiply by using map - 11-multiply_list_map.py 
