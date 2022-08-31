@@ -2,4 +2,5 @@
 Tasks
 0. Squared simple - 0-square_matrix_simple.py
 1. Search and replace - 1-search_replace.py
-2. Unique addition - form new list & sum elements of new list 
+2. Unique addition - form new list & sum elements of new list
+3. Present in both - 3-common_elements.py common element 
