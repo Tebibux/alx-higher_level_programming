@@ -7,4 +7,5 @@ Tasks
 4. Only differents - 4-only_diff_elements.py set in set and set in set
 5. Number of keys - 5-number_keys.py
 6. Print sorted dictionary - 6-print_sorted_dictionary.py
-7. Update dictionary - 7-update_dictionary.py used update() 
+7. Update dictionary - 7-update_dictionary.py used update()
+8. Simple delete by key - 8-simple_delete.py del won't work used pop() 
