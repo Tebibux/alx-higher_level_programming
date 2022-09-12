@@ -4,7 +4,7 @@ def safe_print_list_integers(my_list=[], x=0):
 
     for num in range(x):
         try:
-            print("{:d}".format(), end='')
+            print("{:d}".format(my_list=[]), end='')
         except TypeError:
             pass
         except ValueError:
@@ -12,4 +12,4 @@ def safe_print_list_integers(my_list=[], x=0):
         else:
             iterator += 1
     print()
-    return(iterator)
+    return (iterator)
