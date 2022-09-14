@@ -1,5 +1,7 @@
 #!/usr/bin/pthon3
 """A class Square """
+
+
 class Square:
     """Represents a square
     Attributes:
@@ -11,7 +13,7 @@ class Square:
             size (int): size of a side of the square
         Returns:
             None
-        """       
+        """
         if type(size) is not int:
             raise TypeError("size must be an integer")
         else:
