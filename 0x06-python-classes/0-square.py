@@ -3,5 +3,6 @@ class Square:
     """Class Sqaure that defines a square.
     Returns:
         None
+
     """
     pass
